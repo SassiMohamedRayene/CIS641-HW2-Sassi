@@ -15,4 +15,4 @@ software projects.
 
 ## Favorite Meme
 
-[My favorite meme]([YOUR_MEME_URL](https://www.reddit.com/r/ProgrammerHumor/comments/1ev4v3u/thecurrentjobmarket/))
+https://www.reddit.com/r/ProgrammerHumor/comments/q0re4l/suffering_from_success/
